@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-20)
+## Unreleased (2025-09-07)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
 -   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
